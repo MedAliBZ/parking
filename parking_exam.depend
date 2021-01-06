@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1609978650 source:d:\c++\parking_exam\main.cpp
+	<iostream>
+	"Abonnement.h"
+	"Application.h"
+
+1609968841 source:d:\c++\parking_exam\carte.cpp
+	"Carte.h"
+
+1609971164 d:\c++\parking_exam\carte.h
+	<iostream>
+
+1609968854 source:d:\c++\parking_exam\abonnement.cpp
+	"Abonnement.h"
+
+1609968841 d:\c++\parking_exam\abonnement.h
+	"Carte.h"
+
+1609977782 source:d:\c++\parking_exam\parking.cpp
+	<iostream>
+	"Parking.h"
+
+1609979186 d:\c++\parking_exam\parking.h
+	"Abonnement.h"
+	<list>
+
+1609979135 source:d:\c++\parking_exam\application.cpp
+	<iostream>
+	"Application.h"
+	<typeinfo>
+
+1609978128 d:\c++\parking_exam\application.h
+	"Parking.h"
+
